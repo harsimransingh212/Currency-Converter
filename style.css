@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    min-height: 100vh;
+    background-image:url('https://img.freepik.com/free-vector/collection-virtual-foreign-currency-symbol-background-with-empty-frame_1017-52490.jpg?t=st=1724207686~exp=1724211286~hmac=1e60dc203e914912da4dcc2719149ddf396e1de69ce53d5c1aa37ae7eabedc1b&w=740');
+}
+
+.container
+{
+    /* background-color: rgba(156, 193, 223, 0.432); */
+    background-color: #cccccc;
+
+    padding: 2rem;
+    border-radius: 1rem;
+    min-height: 45vh;
+    width: 40vh;
+
+}
+
+form{
+    margin: 2rem 0 1rem 0;
+    /* border: 3px solid red; */
+
+}
+
+form select,input,button{
+  width: 100%;
+  border: none;
+  outline: none;
+  border-radius: 0.75rem;
+}
+
+form input{
+    /* border: 1px solid; */
+    font-size: 1rem;
+    height: 3rem;
+    padding-left: 0.5rem;
+}
+
+.dropdown{
+    /* border: 2px solid; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+.dropdown i{
+    font-size: 1.5rem;
+    margin-top: 1rem;
+}
+.select-container img{
+    max-width: 2rem;
+}
+
+.select-container{
+    display: flex;
+    width: 6rem;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0.5rem;
+    border: 1px solid lightgray;
+    background-color:rgba(189, 170, 170, 0.822)
+}
+
+.select-container select{
+    font-size: 1rem;
+    width: auto;
+}
+
+.msg{
+    margin: 2rem 0 2rem 0;
+}
+
+form button{
+    height: 3rem;
+    background-color: #af4d98;
+    color: #fff;
+    font-size: 1.15rem;
+    cursor: pointer;
+}
+
+.msg{
+    font-size: larger;
+    font-weight: 500;
+}
