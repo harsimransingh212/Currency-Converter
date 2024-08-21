@@ -4,5 +4,5 @@ The Currency Converter App is a simple yet powerful tool that allows users to co
 Features:-
 Real-Time Conversion: Convert between multiple currencies with the latest exchange rates.
 Historical Data: View historical exchange rates to analyze trends.
-Favorite Currencies: Save your most frequently used currency pairs for quick access.
-User-Friendly Interface: A clean and intuitive interface that makes currency conversion easy
+Favourite Currencies: Save your most frequently used currency pairs for quick access.
+User-Friendly Interface: A clean and intuitive interface that makes currency conversion easy.
